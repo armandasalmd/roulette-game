@@ -4,7 +4,7 @@ A simple GUI game created for windows platform using WPF framework. Can be used 
 
 ## Built With
 
-* [WPF](https://www.djangoproject.com/) - .NET windows platform framework
+* [WPF](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - .NET windows platform framework
 
 ### What have I learned?
 
