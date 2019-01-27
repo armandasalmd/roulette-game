@@ -1,0 +1,5 @@
+Laimejau: 0 
+Pralaimejau: 0 
+Daugiau: 4 
+Maziau: 3 
+Pinigai: 199997 
